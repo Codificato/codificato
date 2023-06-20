@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Bartek</h1>
 <h3 align="center">ERP developer</h3>
 
-- 📫 How to reach me **kontakt@codificato.pl**
+- 📫 How to reach me => **kontakt@codificato.pl**
 
 
 <h3 align="left">Languages and Tools:</h3>
